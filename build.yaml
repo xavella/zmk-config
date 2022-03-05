@@ -14,3 +14,4 @@
 ---
 include:
   - board: nice60
+  - board: nice_nano_v2
