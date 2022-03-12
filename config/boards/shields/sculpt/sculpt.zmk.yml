@@ -1,0 +1,8 @@
+file_format: "1"
+id: sculpt
+name: Sculpt
+type: shield
+url: https://github.com/xavella/zmk-config
+requires: [nice_nano_v2]
+features:
+  - keys
